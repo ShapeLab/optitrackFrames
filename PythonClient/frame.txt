@@ -1,0 +1,169 @@
+MoCap Frame Begin
+-----------------
+Frame #: 16024
+  Marker Set Count:  2
+    MarkerData:
+    Model Name : MarkerSet 001
+    Marker Count :  5
+      Marker   0 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   1 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   2 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   3 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   4 pos : [x=0.00,y=0.00,z=0.00]
+    MarkerData:
+    Model Name : all
+    Marker Count :  5
+      Marker   0 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   1 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   2 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   3 pos : [x=0.00,y=0.00,z=0.00]
+      Marker   4 pos : [x=0.00,y=0.00,z=0.00]
+  Unlabeled Markers Count:  0
+    MarkerData:
+    Marker Count :  0
+  Rigid Body Count:   0
+  Skeleton Count:   0
+  Labeled Marker Count: 15
+    Labeled Marker   0
+      LabeledMarker:
+      ID                 : [MarkerID: 50013] [ModelID:   0]
+      pos                : [0.90, 0.03, 0.43]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.06]
+    Labeled Marker   1
+      LabeledMarker:
+      ID                 : [MarkerID: 50014] [ModelID:   0]
+      pos                : [0.59, 0.02, 0.44]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.61]
+    Labeled Marker   2
+      LabeledMarker:
+      ID                 : [MarkerID: 50015] [ModelID:   0]
+      pos                : [0.48, 0.04, 0.82]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.40]
+    Labeled Marker   3
+      LabeledMarker:
+      ID                 : [MarkerID: 50016] [ModelID:   0]
+      pos                : [0.44, 0.04, 0.67]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.43]
+    Labeled Marker   4
+      LabeledMarker:
+      ID                 : [MarkerID: 50017] [ModelID:   0]
+      pos                : [0.43, 0.02, 0.45]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.56]
+    Labeled Marker   5
+      LabeledMarker:
+      ID                 : [MarkerID: 50018] [ModelID:   0]
+      pos                : [0.40, 0.01, 0.52]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.50]
+    Labeled Marker   6
+      LabeledMarker:
+      ID                 : [MarkerID: 50020] [ModelID:   0]
+      pos                : [0.36, -0.00, 0.37]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.49]
+    Labeled Marker   7
+      LabeledMarker:
+      ID                 : [MarkerID: 50021] [ModelID:   0]
+      pos                : [0.32, 0.02, 0.22]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.46]
+    Labeled Marker   8
+      LabeledMarker:
+      ID                 : [MarkerID: 50022] [ModelID:   0]
+      pos                : [0.28, 0.03, 0.07]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.02]
+    Labeled Marker   9
+      LabeledMarker:
+      ID                 : [MarkerID: 50024] [ModelID:   0]
+      pos                : [0.27, 0.02, 0.45]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.53]
+    Labeled Marker  10
+      LabeledMarker:
+      ID                 : [MarkerID: 50025] [ModelID:   0]
+      pos                : [0.12, 0.03, 0.45]
+      size               : [0.00]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.47]
+    Labeled Marker  11
+      LabeledMarker:
+      ID                 : [MarkerID: 50026] [ModelID:   0]
+      pos                : [1.06, 0.03, 0.43]
+      size               : [0.00]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.03]
+    Labeled Marker  12
+      LabeledMarker:
+      ID                 : [MarkerID: 50028] [ModelID:   0]
+      pos                : [0.75, 0.02, 0.44]
+      size               : [0.01]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.62]
+    Labeled Marker  13
+      LabeledMarker:
+      ID                 : [MarkerID: 50801] [ModelID:   0]
+      pos                : [0.39, 0.02, 0.45]
+      size               : [0.00]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [0.45]
+    Labeled Marker  14
+      LabeledMarker:
+      ID                 : [MarkerID: 50808] [ModelID:   0]
+      pos                : [0.37, 0.03, 0.45]
+      size               : [0.00]
+      occluded           : [  0]
+      point_cloud_solved : [  1]
+      model_solved       : [  0]
+      err                : [1.05]
+  Force Plate Count:   0
+  Device Count:   0
+  Timestamp : 7737.16
+  Mid-exposure timestamp : 10074692160836
+  Camera data received timestamp : 10074692206243
+  Transmit timestamp : 10074692216019
+MoCap Frame End
+-----------------
