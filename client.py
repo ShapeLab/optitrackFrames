@@ -13,7 +13,7 @@ sel = selectors.DefaultSelector()
 
 
 def create_request(action, value):
-    if action == "search":
+    if action == "frame":
         return dict(
             type="text/json",
             encoding="utf-8",

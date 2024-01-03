@@ -4,15 +4,7 @@ import json
 import io
 import struct
 import subprocess
-
-with open("PythonClient/frame.txt") as f:
-    frame = f.read()
-
-request_search = {
-    "morpheus": "Follow the white rabbit. \U0001f430",
-    "ring": frame,
-    "\U0001f436": "\U0001f43e Playing ball! \U0001f3d0",
-}
+import frameScraper
 
 
 class Message:
@@ -94,12 +86,9 @@ class Message:
 
     def _create_response_json_content(self):
         action = self.request.get("action")
-        if action == "search":
-            query = self.request.get("value")
-            o = subprocess.run(["python", "C:frameScraper.py"], stdout=subprocess.PIPE)
-            print(o.stdout)
-            answer = o.stdout.decode('utf-8')
-            content = {"result": answer}
+        if action == "frame":
+            out = frameScraper.scrape()
+            content = {"result": out}
         else:
             content = {"result": f"Error: invalid action '{action}'."}
         content_encoding = "utf-8"
